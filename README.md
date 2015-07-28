@@ -1,5 +1,7 @@
 # atlas-publish
 
+Publishes vagrant boxes to Atlas with curl
+
     vagrant package
     git submodule add https://github.com/matti/atlas-publish
     git submodule update --init
