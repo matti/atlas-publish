@@ -3,6 +3,8 @@
 set -e
 set -v
 
+hash jq
+
 ATLAS_TOKEN=$1
 USER=$2
 BOX=$3
